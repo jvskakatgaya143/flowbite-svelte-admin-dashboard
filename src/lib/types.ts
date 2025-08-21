@@ -561,3 +561,11 @@ export interface AccountsProps {
   listClass?: string;
   liClass?: string;
 }
+
+export interface LiquidGlassPanelProps {
+  children: Snippet;
+  options?: Record<string, unknown>;
+  class?: string;
+  style?: string;
+  [key: string]: unknown;
+}

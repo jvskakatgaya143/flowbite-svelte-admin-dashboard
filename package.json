@@ -83,6 +83,7 @@
     "@flowbite-svelte-plugins/chart": "^0.2.4",
     "flowbite-svelte": "1.11.4",
     "flowbite-svelte-icons": "^2.2.1",
+    "liquid-glass-svelte": "^1.2.0",
     "tailwind-merge": "^3.3.1"
   },
   "keywords": [

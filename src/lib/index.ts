@@ -20,6 +20,7 @@ export { default as Footer } from './Footer.svelte';
 export { default as ForgotPassword } from './ForgotPassword.svelte';
 export { default as IconAvatar } from './IconAvatar.svelte';
 export { default as LanguageTime } from './LanguageTime.svelte';
+export { default as LiquidGlassPanel } from './LiquidGlassPanel.svelte';
 export { default as More } from './More.svelte';
 export { default as Maintenance } from './Maintenance.svelte';
 export { default as NotFound } from './NotFound.svelte';
